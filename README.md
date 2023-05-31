@@ -1,1 +1,1 @@
-# Hang-man
+# Juego del ahorcado
