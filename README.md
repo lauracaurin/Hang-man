@@ -15,7 +15,7 @@ Este proyecto es una implementación del clásico juego del ahorcado, desarrolla
 
 - **React**
 - **SCSS**
-- **JavaScript (ES6)**
+- **JavaScript**
 - **API**
 
 ## Cómo jugar 🚀
