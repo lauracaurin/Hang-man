@@ -25,3 +25,8 @@ Introduce letras en el formulario.
 Cada letra correcta se mostrará en su lugar correspondiente.
 Las letras incorrectas aumentarán el número de errores.
 ¡Adivina la palabra antes de cometer demasiados errores!
+
+## Autor
+
+Laura Caurín
+
